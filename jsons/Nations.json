@@ -20,7 +20,7 @@
 		"uniqueName": "Pronoia System",
 		"uniques": ["[+15]% Strength <for units with [Morale]>","Damage is ignored when determining unit Strength <for [Samurai] units>","Starts with [Steel]","Starts with [Tradition] adopted","Provides [5] [Horses]","Provides [15] [Iron]",
 		"Victory Condition",
-		"Triggers victory <after [60] turns> <when at war>"],
+		"Triggers victory <after [100] turns> <when at war>"],
 		"cities": ["Dazaifu","Hirado","Matsuura","Tsushima","Iki"]
         }
 ]
