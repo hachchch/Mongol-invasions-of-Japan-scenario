@@ -7,7 +7,7 @@
 		"outerColor": [81,0,9],
 		"innerColor": [255,120,0],
 		"uniqueName": "Mongol Terror",
-		"uniques": [/*"+30% Strength when fighting City-State units and cities",*/ "[+1] Movement <for [Mounted] units>"],
+		"uniques": [/*"+30% Strength when fighting City-State units and cities",*/ "[+1] Movement <for [Mounted] units>","Starts with [Chivalry]","Starts with [Tradition] adopted"],
 		"cities": ["Masan","Geojedo"]
         },
         {
@@ -18,7 +18,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [184, 0, 0],
 		"uniqueName": "Pronoia System",
-		"uniques": ["[+15]% Strength <for units with [Morale]>","Damage is ignored when determining unit Strength <for [Samurai] units>"],
+		"uniques": ["[+15]% Strength <for units with [Morale]>","Damage is ignored when determining unit Strength <for [Samurai] units>","Starts with [Steel]","Starts with [Tradition] adopted"],
 		"cities": ["Dazaifu","Hirado","Matsuura","Tsushima","Iki"]
         }
 ]
