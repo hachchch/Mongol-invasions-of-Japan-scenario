@@ -1,0 +1,24 @@
+[
+        {
+                "name": "Mongolia",
+		"leaderName": "Kublai Khan",
+		"adjective": ["Mongolian"],
+		"preferredVictoryType": "Domination",
+		"outerColor": [81,0,9],
+		"innerColor": [255,120,0],
+		"uniqueName": "Mongol Terror",
+		"uniques": [/*"+30% Strength when fighting City-State units and cities",*/ "[+1] Movement <for [Mounted] units>"],
+		"cities": ["Masan","Geojedo"]
+        },
+        {
+                "name": "Japan",
+		"leaderName": "Houjou Tokimune",
+		"adjective": ["Japanese"],
+		"preferredVictoryType": "Domination",
+		"outerColor": [255, 255, 255],
+		"innerColor": [184, 0, 0],
+		"uniqueName": "Pronoia System",
+		"uniques": ["[+15]% Strength <for units with [Morale]>","Damage is ignored when determining unit Strength <for [Samurai] units>"],
+		"cities": ["Dazaifu","Hirado","Matsuura","Tsushima","Iki"]
+        }
+]
